@@ -5,6 +5,7 @@ subtitle:   "How to set up this theme"
 date:       2022-06-09
 author:     "大臭蜴"
 image:      "https://i.imgur.com/ucCMLtP.jpg"
+categories:	[ lizard ]
 ---
 
 # Clean White Theme for Hugo
