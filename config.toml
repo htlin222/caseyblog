@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/casey.jpeg"
+  header_image = "img/home-bg-jeep.jpg"
   SEOTitle = "陳睨的網誌 | Casey's Blog"
   description = "本業是講師，同時也做活動與教案的企劃設計、策展、主持、商業辯論活動，授課資歷五年，所以正式介紹一下自己，「大家好，我是自由接案的陳睨^^」"
   keyword = "陳睨"
